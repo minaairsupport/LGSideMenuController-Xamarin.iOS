@@ -1,0 +1,5 @@
+/Users/Mina/XamarinProjects/AgentWay.Mobile/LGSideMenuController/bin/Debug/LGSideMenuController.dll
+/Users/Mina/XamarinProjects/AgentWay.Mobile/LGSideMenuController/bin/Debug/LGSideMenuController.pdb
+/Users/Mina/XamarinProjects/AgentWay.Mobile/LGSideMenuController/obj/Debug/LGSideMenuController.csproj.CoreCompileInputs.cache
+/Users/Mina/XamarinProjects/AgentWay.Mobile/LGSideMenuController/obj/Debug/LGSideMenuController.dll
+/Users/Mina/XamarinProjects/AgentWay.Mobile/LGSideMenuController/obj/Debug/LGSideMenuController.pdb
